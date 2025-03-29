@@ -4,8 +4,8 @@ Oii, Seja bem vindo!
 
 
 
-          
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<img align="center" alt="mi-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">   
+
 
 
 ![](https://github-readme-stats.vercel.app/api?username=MilenaSimionee&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
