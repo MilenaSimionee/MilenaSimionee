@@ -10,7 +10,9 @@ Olá, eu sou a Milena 👋
 
 📌 Projetos em destaque:
 - Análise de Dados - AluraStore
-- 
+- Análise de Churn de Clientes - TelecomX
+-  Análise e Previsão de Churn  - TelecomX2
+
 🔗 LinkedIn:
 https://www.linkedin.com/in/milenasimione
 
