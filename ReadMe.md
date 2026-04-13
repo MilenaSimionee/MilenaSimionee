@@ -9,8 +9,8 @@ Olá, eu sou a Milena 👋
 - Melhoria de processos  
 
 📌 Projetos em destaque:
-- Análise de Churn de Clientes  
-
+- Análise de Dados - AluraStore
+- 
 🔗 LinkedIn:
 https://www.linkedin.com/in/milenasimione
 
