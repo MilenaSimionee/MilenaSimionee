@@ -1,4 +1,18 @@
-Oii, Seja bem vindo!
+Olá, eu sou a Milena 👋
+
+🎓 Formada em Gestão de Tecnologia da Informação  
+📊 Em transição para a área de Dados, com foco em análise de dados e negócio  
+
+💡 Tenho interesse em:
+- Análise de dados  
+- Entendimento de negócio  
+- Melhoria de processos  
+
+📌 Projetos em destaque:
+- Análise de Churn de Clientes  
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/milenasimione
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/milenasimione) 
 
